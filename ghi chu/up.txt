@@ -4,4 +4,7 @@ khai báo: git config --global user.email "you@example.com"
 khai báo:git config --global user.name "Your Name"
 up : git commit -m "..."
 up: git push origin main
-lấy về :git pull origin main
+lấy về :git pull origin main (LỆNH UPDATE về máy)
+NHÓM TRƯỞNG : git checkout -b "TÊN NHÁNH" (TẠO TÊN NHÁNH)
+ up nhánh : git push --set-upstream origin "tên nhánh"
+
