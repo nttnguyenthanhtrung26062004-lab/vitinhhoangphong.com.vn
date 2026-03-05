@@ -1,6 +1,7 @@
-git add
-git commit -m "..."
-git push origin main
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
-123
+dow: git clone "link"
+up: git add .
+khai báo: git config --global user.email "you@example.com"
+khai báo:git config --global user.name "Your Name"
+up : git commit -m "..."
+up: git push origin main
+lấy về :git pull origin main
