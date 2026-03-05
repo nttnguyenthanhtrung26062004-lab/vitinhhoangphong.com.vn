@@ -7,4 +7,6 @@ up: git push origin main
 lấy về :git pull origin main (LỆNH UPDATE về máy)
 NHÓM TRƯỞNG : git checkout -b "TÊN NHÁNH" (TẠO TÊN NHÁNH)
  up nhánh : git push --set-upstream origin "tên nhánh"
-
+git branch -D main1 (xóa nhánh)
+git checkout main (vào nhánh)
+git pull origin main (lấy bản mơi nhất)
